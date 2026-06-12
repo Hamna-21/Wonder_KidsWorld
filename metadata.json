@@ -1,0 +1,6 @@
+{
+  "name": "WonderKids World",
+  "description": "Learn, Listen, Play & Explore - A magical interactive learning and stories platform for kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
